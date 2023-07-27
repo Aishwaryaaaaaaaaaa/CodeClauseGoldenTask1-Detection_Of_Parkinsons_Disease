@@ -1,0 +1,1 @@
+# CodeClauseGoldenTask1-Detection_Of_Parkinsons_Disease
